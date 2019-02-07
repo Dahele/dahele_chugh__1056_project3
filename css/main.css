@@ -1,0 +1,195 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden{
+	display: none;
+}
+
+body{
+	width: 960px;
+	font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	margin: 0 auto;
+}
+
+p{
+	color: #ffffff;
+	background: #000000;
+	text-align: center;
+}
+
+#Container{
+	width: 920px;
+	margin-top: 20px;
+}
+
+#mainHeader {
+	overflow:hidden;
+}
+
+#logo{
+	width: 200px;
+	float: left;
+}
+
+#logo p{
+	line-height: 200px;
+}
+
+#mainNav{
+	width: 500px; 
+	margin-top: 120px;
+	margin-bottom: 20px;
+	float: right;
+}
+
+#mainNav p{
+	line-height: 30px;
+}
+
+#searchBar{
+	width: 175px;
+	float: right;
+	padding-left: 90px;
+
+}
+
+#searchBar p{
+	line-height: 25px;
+}
+
+#promoImg{
+	width: 920px;
+	margin-bottom: 60px;
+}
+
+#promoImg p{
+	line-height: 200px;
+}
+
+
+#promoText{
+	width: 700px;
+	height: 50px;
+	margin-left: 130px;
+}
+
+#promoImage{
+	margin-left: 150px;
+	overflow: hidden;
+}
+
+#promoImage p{
+	line-height: 300px;
+}
+
+#promoImg1{
+	width: 300px;
+	float: left;
+	margin-bottom: 55px;
+	margin-right: 60px;
+}
+
+#promoImg2{
+	width: 300px;
+	float: left;
+	margin-right: 55px;
+}
+
+#promoText{
+	width: 700px;
+	margin-top: 60px;
+	margin-bottom: 120px;
+	margin-left: 130px;
+}
+
+#promoText p{
+	line-height: 150px;
+}
+
+#newSource{
+	margin-left: 130px;
+	margin-bottom: 25px;
+	overflow: hidden;
+}
+
+#newSource p{
+	line-height: 150px;
+}
+
+#promoSource{
+	width: 150px;
+	margin-right: 120px;
+	float: left;
+}
+
+#promoSource1{
+	width: 150px;
+	float: right;
+	margin-right: 90px;
+}
+
+#socialMedia{
+	margin-left: 290px;
+	margin-bottom: 25px;
+	overflow: hidden;
+}
+
+#socialMedia p{
+	line-height: 50px;
+}
+
+#icon{
+	width: 50px;
+	margin-right: 50px;
+	float: left;
+}
+
+#icon1{
+	width: 50px;
+	margin-right: 50px;
+	float: left;
+}
+
+#footerTab{
+	width: 920px;
+}
+
+#footerTab p{
+	line-height: 50px;
+}
+
+/*PAGE 2*/
+
+#textArea{
+	width: 920px;
+	margin-bottom: 60px;
+}
+
+#textArea{
+	line-height: 120px;
+}
+
+#mainContent{
+	margin-left: 110px;
+	margin-bottom: 60px;
+	overflow: hidden;
+}
+
+#mainContent p{
+	line-height: 250px;
+}
+
+#promoImg3{
+	width: 250px;
+	float: left;
+	margin-bottom: 40px;
+	margin-bottom: 60px;
+
+}
+
+#promoText1{
+	width: 450px;
+	margin-bottom: 60px;
+	float: right;
+}
